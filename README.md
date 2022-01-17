@@ -11,9 +11,9 @@
 
 
 ## Project Files:
-### BRefProject.R
-##### R script for project. Scrapes data from online websites, cleans and analyzes data, creates plots
-### BRefProject.RData
-##### Data set created by BRefProject.R. Included here because running the code in the R script to create this data set will take hours
-### Presentation.pptx
-##### PowerPoint Presentation explaining project and discussing results
+### Rivera-8949.R
+##### R script for project. Imports data set and performs cluster analysis, PC analysis, PC regression, MLE estimation
+### Rivera-8949.csv
+##### Data set for this project. Created manually by downloading and combining tables from Baseball-Reference and Baseball Savant
+### Examining MLB Statcast Data to Identify Undervalued Players Using R
+##### Research Paper detailing the project. Includes introduction, description of data set, analyses, results, conclusions. Identifies some MLB players who could be considered undervalued.
